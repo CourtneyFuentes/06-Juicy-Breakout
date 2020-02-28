@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/arguing dog 2.wav-3227a554c5d0bdecea28637c60b31f61.sample"
+
+[deps]
+
+source_file="res://Assets/arguing dog 2.wav"
+dest_files=[ "res://.import/arguing dog 2.wav-3227a554c5d0bdecea28637c60b31f61.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
